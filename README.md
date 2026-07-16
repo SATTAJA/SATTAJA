@@ -2,6 +2,8 @@
 
 ![Satrio Aji](img/github-header-banner.png)
 
+##### I'm a Software Engineering student from Indonesia and a frontend-focused Full Stack Developer. I enjoy building modern, responsive, and user-friendly web and mobile applications. I'm passionate about writing clean code, learning new technologies, and creating digital products that solve real-world problems.
+
 <h1 align="center"><b>Tech Stack</b></h1>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,py,nextjs,react,nodejs,tailwind,github,git,vercel,supabase,postgresql,prisma,windows,androidstudio,vscode)](https://skillicons.dev)
