@@ -2,7 +2,7 @@
 
 ![Satrio Aji](img/github-header-banner.png)
 
-<h4 align="center"><b>Tech Stack</b></h4>
+<h1 align="center"><b>Tech Stack</b></h1>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,py,nextjs,react,nodejs,tailwind,github,git,vercel,supabase,postgresql,prisma,windows,androidstudio,vscode)](https://skillicons.dev)
 
